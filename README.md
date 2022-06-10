@@ -4,7 +4,7 @@
 
 Besides my study I'm learning Web development since 2020. Now you can call me a Junior Front-End Web developer. I love to making Websites and wants to explore new things everyday, And I like helping mindset.
 
-Skills: HTML / CSS / Bootstrap / Tailwind / JS /  React/ React-Router / NodeJs/ ExpressJs / MongoDB / Firebase / Heroku / Netlify
+Skills: HTML , CSS , Bootstrap , Tailwind , JS ,  React , React-Router , NodeJs , ExpressJs , MongoDB , Firebase , Heroku , Netlify
 
 
 
