@@ -2,9 +2,10 @@
 #### Junior Web Developer
 ![Junior Web Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY0JeyLTcn-kwLcHWl0gf3XzfFnot6eshV2ms8RVkEmzZst74I4X24PO8KCT7inFz46W0&usqp=CAU)
 
-Besides my study I'm learning Web development since 2020. Now you can call me a Junior Front-End Web developer. I love to making Websites and wants to explore new things everyday, And I like helping mindset.
+Besides my study I'm learning Web development since 2020. As a MERN Stack Web Developer, I want to work for a software company where I can
+explore my talents in Web Design, Front-End and Back-End Web Development to give excellent customer service & finally I like helping mindset.
 
-Skills: HTML , CSS , Bootstrap , Tailwind , JS ,  React , React-Router , NodeJs , ExpressJs , MongoDB , Firebase , Heroku , Netlify
+Skills: HTML , CSS , Bootstrap , Tailwind , JS , ES6,  React , React-Router , NodeJs , ExpressJs , MongoDB , Firebase , Heroku , Netlify
 
 
 
